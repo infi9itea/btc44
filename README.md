@@ -1,11 +1,4 @@
-# AI Brain Tumor Classification Project
-
-## Group Information
-- **Group Members:** 
-  - Shafayat Hasnat Rubaiyat
-  - MD Riyad Hossain
-  - M. Nura Alam Naim
-  - Mehejarin Aklima Jerin
+# Brain Tumor Classification
 
 ## Project Overview
 This project implements and compares multiple deep learning architectures for Brain Tumor classification. The goal is to accurately classify different types of brain tumors using computer vision techniques, comparing traditional CNN architectures with modern transfer learning approaches and hybrid models.
@@ -170,7 +163,7 @@ We express our gratitude to the following individual for their guidance and supp
 
 ## Contributors
 All group members contributed equally:
-- Shafayat Hasnat Rubaiyat: CNN architecture, Transfer learning      experiments
+- Shafayat Hasnat Rubaiyat: CNN architecture, Transfer learning experiments
 - MD Riyad Hossain: Hyperparameter tuning, Data preprocessing 
 - M. Nura Alam Naim: final integration, evaluation, visualization
 - Mehejarin Aklima Jerin: Baseline model, Documentation
