@@ -9,7 +9,7 @@ This project implements and compares multiple deep learning architectures for Br
 
 ## Dataset Information
 - **Dataset Name:** Brain Tumor MRI Images 44 Classes
-- **Source:** mrnotalent/braint
+- **Source:** mrnotalent/braint which was taken from **fernando2rad** dataset from kaggle and later augmented.
 - **Classes:** Here is the list of 44 class tumors:
 1. Astrocitoma T1
 2. Astrocitoma T1C+
