@@ -165,7 +165,7 @@ This project implements and compares multiple deep learning architectures for Br
 - (See requirements.txt for complete list)
 
 ## Presentation Slide:
-- https://docs.google.com/presentation/d/1DxG9ekwUIq-qw59cb0vyV1sT0qPpY1f_/edit?usp=share_link&ouid=103396683720185455463&rtpof=true&sd=true
+- https://canva.link/npuc3490mes6nqa
 
 ## Acknowledgements
 We express our gratitude to the following individual for their guidance and support:
