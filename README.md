@@ -1,4 +1,14 @@
-# Brain Tumor Classification
+# A Hybrid Deep Learning Framework for 44-Class Brain Tumor Classification
+
+Official implementation of the paper:
+
+**A Hybrid Deep Learning Framework for 44-Class Brain Tumor Classification**
+
+Published in the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.
+
+**Paper:** https://doi.org/10.1109/ICCIT68739.2025.11491434
+
+**Best Result:** 98.69% accuracy using a hybrid ResNet50 + DenseNet121 architecture.
 
 ## Project Overview
 This project implements and compares multiple deep learning architectures for Brain Tumor classification. The goal is to accurately classify different types of brain tumors using computer vision techniques, comparing traditional CNN architectures with modern transfer learning approaches and hybrid models.
