@@ -91,12 +91,12 @@ See [`docs/experiment_methodology.md`](docs/experiment_methodology.md) and [`doc
 
 3. **Advanced Models**
    Transfer learning models fine-tuned on the dataset:
-   - **DenseNet** — `02_Densenet.ipynb`
-   - **EfficientNet** — `03_EfficientNet.ipynb`
-   - **GoogleNet** — `04_GoogleNet.ipynb`
-   - **Hybrid (DenseNet + ResNet)** — `05_Hybrid_CNN (Densenet + Restnet).ipynb`
-   - **ResNet (augmented data)** — `06_RestNet on Augmented Data.ipynb`
-   - **ResNet (non-augmented data)** — `07_RestNet on Non-Augmented Data.ipynb`
+   - **DenseNet** - `02_Densenet.ipynb`
+   - **EfficientNet** - `03_EfficientNet.ipynb`
+   - **GoogleNet** - `04_GoogleNet.ipynb`
+   - **Hybrid (DenseNet + ResNet)** - `05_Hybrid_CNN (Densenet + Restnet).ipynb`
+   - **ResNet (augmented data)** - `06_RestNet on Augmented Data.ipynb`
+   - **ResNet (non-augmented data)** - `07_RestNet on Non-Augmented Data.ipynb`
 
 4. **Model Evaluation**
    - Compared all models on Accuracy, Precision, Recall, and F1-Score to select the final architecture.
@@ -184,7 +184,7 @@ We express our gratitude to the following individual for their guidance and supp
 
 ## Contributors
 All group members contributed equally:
-- **Shafayat Hasnat Rubaiyat** — CNN architecture, transfer learning experiments
-- **MD Riyad Hossain** — Hyperparameter tuning, data preprocessing
-- **M. Nura Alam Naim** — Final integration, evaluation, visualization
-- **Mehejarin Aklima Jerin** — Baseline model, documentation
+- **Shafayat Hasnat Rubaiyat** - CNN architecture, transfer learning experiments
+- **MD Riyad Hossain** - Hyperparameter tuning, data preprocessing
+- **M. Nura Alam Naim** - Final integration, evaluation, visualization
+- **Mehejarin Aklima Jerin** - Baseline model, documentation
